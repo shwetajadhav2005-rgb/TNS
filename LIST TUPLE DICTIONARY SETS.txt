@@ -1,0 +1,32 @@
+LIST TUPLE DICTIONARY SETS
+LISTS DUPLICATES ALLOW
+VALUES CANT BE REPEATED IN SETS 
+initialize list [] this bracket
+CREATE , SLICING ,SEARCHING , SORTING ALGO(MERGE SORT), LOOPING AND 
+CREATE A LIST  in different form: example
+a=[3, 1, 4]
+b=list("abc")
+c=[0]*5
+O/P [0 0 0 0 0]
+d=list(range(1, 6))
+Variety of Datatype is allowed in list
+list can hold sub list in it
+
+(:-2) last to beginning
+                       
+             MODIFY THE LIST
+.append
+extend(seq)
+insert
+eg:
+l = [1, 2]
+l.append(3)
+ .extend
+l.extend([4, 5])
+l.insert(1,99)
+l2 = [1,2] + [2,99]
+i is position index value
+                      Removing Items
+remove(value)
+pop(index)
+del int(i)
